@@ -1,8 +1,10 @@
-<div align="center">
-  <!-- Banner -->
+<!--<div align="center">
+  Banner
   <a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1" target="_blank">
     <img src="https://img.wattpad.com/bc4f4b0f9030ad92aee84bcb2178372f9c9ee1f3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f394b35615f4667566a6138546f413d3d2d313030363438373231382e313662633262636434643062353034623830303034363534363939362e676966">
-  </a>
+  </a>-->
+
+  
   <!-- Links -->
   <div>
 	  
