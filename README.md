@@ -41,7 +41,7 @@
         <!-- GIF -->
     <!--<img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 50%; height: auto;"> -->
     <!-- Iconos -->
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,git,arduino,html,css,js,discord,php,eclipse,github,linkedin,notion,aws,cloudflare,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=12"/>
   </div>
 </div>
 
