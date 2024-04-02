@@ -5,6 +5,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FDBAC5&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Student+at+U-Tad+University;Always+learning+new+things">
 
+<a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1" target="_blank">
+    <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
+</a>
 
 <!-- REDES SOCIALES -->
 <div>
