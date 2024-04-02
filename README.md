@@ -35,14 +35,16 @@
  <hr/>
  
 <div align="center">
-  <h1 style="font-size: 24px; margin-bottom: 16px;">Key Strengths</h1>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <!-- Iconos -->
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=3"/>
-    <!-- GIF -->
-    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 30%; height: auto;">
+  <h1 style="font-size: 24px;">Key Strengths</h1>
+  <div><!-- Iconos -->
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=8"/>
   </div>
 </div>
+<div style="float: right;"><!-- GIF -->
+  <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="width: 300px;">
+</div>
+<div style="clear: both;"></div>
+
 
 
 
