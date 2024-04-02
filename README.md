@@ -5,10 +5,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FDBAC5&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Student+at+U-Tad+University;Always+learning+new+things">
 
-<div>
-      <!-- GIF -->
-  <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 100px; width: 30%; height: auto;">
-</div>
 
 <!-- REDES SOCIALES -->
 <div>
@@ -39,13 +35,12 @@
  <hr/>
  
 <div align="center">
-  <h1 style="font-size: 24px;">Key Strengths</h1>
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <div>
-      <!-- Iconos -->
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=8"/>
-    </div>
-
+  <h1 style="font-size: 24px; margin-bottom: 16px;">Key Strengths</h1>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <!-- Iconos -->
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=8"/>
+    <!-- GIF -->
+    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 100%; height: auto;">
   </div>
 </div>
 
