@@ -3,8 +3,9 @@
     <h1>Hi , I'm Saray Lara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FDBAC5&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@ssaraylara;Student+at+U-Tad+University;Always+learning+new+things">
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FDBAC5&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Student+at+U-Tad+University;Always+learning+new+things">
 
+<!-- REDES SOCIALES -->
 <div>
     <a href="https://saraylara.com/" text-decoration="none">
 	      <img src="https://img.shields.io/badge/saraylara.com-black?logo=googlechrome&logoColor=white&link=saraylara.com">
@@ -30,31 +31,23 @@
 <!--## <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me-->
 
 
+ <hr/>
+ 
+<div style="display: grid; grid-template-columns: auto 300px; justify-content: center; align-items: start;">
+  <div style="text-align: center;">
+    <h1 style="font-size: 24px;">Key Strengths</h1>
+    <div>
+      <!-- Aquí van tus iconos -->
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=8"/>
+    </div>
+  </div>
+  <div>
+    <!-- GIF -->
+    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="width: 300px;">
+  </div>
+</div>
 
 
-## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+<br/>
+<hr/>
