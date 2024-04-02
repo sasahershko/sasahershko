@@ -12,19 +12,19 @@
 <!-- REDES SOCIALES -->
 <div>
     <a href="https://saraylara.com/" text-decoration="none">
-	      <img src="https://img.shields.io/badge/saraylara.com-black?logo=googlechrome&logoColor=white&link=saraylara.com">
+	      <img src="https://img.shields.io/badge/saraylara.com-black?style=for-the-badge&logo=googlechrome&logoColor=white&link=saraylara.com">
 	</a>
 
 <a href="https://www.twitch.tv/sasahershko" text-decoration="none">
-	      <img src="https://img.shields.io/badge/sasahershko-black?logo=twitch&logoColor=white">
+	      <img src="https://img.shields.io/badge/sasahershko-black?style=for-the-badge&logo=twitch&logoColor=white">
 	</a>
 
 <a href="https://twitter.com/ssaraylara" text-decoration="none">
-	      <img src="https://img.shields.io/badge/SSARAYLARA-black?logo=x">
+	      <img src="https://img.shields.io/badge/SSARAYLARA-black?style=for-the-badge&logo=x">
 	</a>
 
 <a href="https://www.linkedin.com/in/saray-lara-7b79b32a0/" text-decoration="none">
-	      <img src="https://img.shields.io/badge/Saray_Lara-black?logo=linkedin&logoColor=white
+	      <img src="https://img.shields.io/badge/Saray_Lara-black?style=for-the-badge&logo=linkedin&logoColor=white
           ">
 	</a>
 
@@ -48,9 +48,4 @@
 </div>
 
 
-
-
-
-
-<br/>
 <hr/>
