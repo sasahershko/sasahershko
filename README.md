@@ -37,14 +37,31 @@
  <hr/>
  
 <div align="center">
-  <h1 style="font-size: 24px; margin-bottom: 16px;">Key Strengths</h1>
+  <h1 style="font-size: 24px; margin-bottom: 16px;">Key Strengths<picture>
+       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa_1f3fb/512.gif" alt="💪" width="32" height="32"></h1>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+        <!-- GIF -->
+    <!--<img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 50%; height: auto;"> -->
     <!-- Iconos -->
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=12"/>
-    <!-- GIF -->
-    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 50%; height: auto;">
   </div>
 </div>
+
+<hr/>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">Stats<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 
 <hr/>
