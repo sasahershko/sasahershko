@@ -24,8 +24,7 @@
 	</a>
 
 <a href="https://www.linkedin.com/in/saray-lara-7b79b32a0/" text-decoration="none">
-	      <img src="https://img.shields.io/badge/Saray_Lara-black?style=for-the-badge&logo=linkedin&logoColor=white
-          ">
+	      <img src="https://img.shields.io/badge/Saray_Lara-black?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 
 
