@@ -27,16 +27,9 @@
   </a>
 </div>
 
-## <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!--## <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me-->
 
 
-- :school: I am a `Student` at [U-Tad University](https://u-tad.com/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE](https://saraylara.com/).
 
 
 ## 🛠️ My Skills
