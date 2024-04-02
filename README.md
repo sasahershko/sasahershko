@@ -1,3 +1,11 @@
+<div align="center">
+  <!-- Banner -->
+  <a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1" target="_blank">
+    <img src="https://img.wattpad.com/bc4f4b0f9030ad92aee84bcb2178372f9c9ee1f3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f394b35615f4667566a6138546f413d3d2d313030363438373231382e313662633262636434643062353034623830303034363534363939362e676966">
+  </a>
+  <!-- Links -->
+  <div>
+	  
 <h1 align="center">Hi , I'm Saray Lara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,18 +16,17 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+<!--<div>
+	<a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
+	      <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
 	</a>
-
-</p>
+	<a href="https://rodriguezdelreal.com/" text-decoration="none">
+	      <img src="https://img.shields.io/website?label=rodriguezdelreal.com&style=for-the-badge&url=https%3A%2F%2Frodriguezdelreal.com/&color=004932&logo=googlechrome&logoColor=white">
+	</a>
+	<a href="https://twitter.com/Ronambulo" text-decoration="none">
+	      <img src="https://custom-icon-badges.demolab.com/badge/Follow%20ronambulo-X.com-black?style=for-the-badge&logo=X&logoColor=white">
+	</a>
+</div>-->
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
