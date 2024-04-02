@@ -33,19 +33,20 @@
 
  <hr/>
  
-<div style="display: grid; grid-template-columns: auto 300px; justify-content: center; align-items: start;">
-  <div style="text-align: center;">
-    <h1 style="font-size: 24px;">Key Strengths</h1>
+<div align="center">
+  <h1 style="font-size: 24px;">Key Strengths</h1>
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <div>
-      <!-- Aquí van tus iconos -->
+      <!-- Iconos -->
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,git,arduino,aws,cloudflare,html,css,js,discord,eclipse,github,linkedin,notion,obsidian,pr,ubuntu,kali,visualstudio,vscode&perline=8"/>
     </div>
-  </div>
-  <div>
-    <!-- GIF -->
-    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="width: 300px;">
+    <div>
+      <!-- GIF -->
+      <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 300px; width: 100%; height: auto;">
+    </div>
   </div>
 </div>
+
 
 
 
