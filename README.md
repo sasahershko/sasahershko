@@ -42,7 +42,7 @@
     </div>
     <div>
       <!-- GIF -->
-      <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 100px; width: 100%; height: auto;">
+      <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 100px; width: 50%; height: auto;">
     </div>
   </div>
 </div>
