@@ -11,25 +11,23 @@
 
 <!-- REDES SOCIALES -->
 <div>
-    <a href="https://saraylara.com/" text-decoration="none">
-	      <img src="https://img.shields.io/badge/saraylara.com-black?style=for-the-badge&logo=googlechrome&logoColor=white&link=saraylara.com">
-	</a>
+    <a href="https://saraylara.com/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/saraylara.com-black?style=for-the-badge&logo=googlechrome&logoColor=white&link=saraylara.com">
+    </a>
 
-<a href="https://www.twitch.tv/sasahershko" text-decoration="none">
-	      <img src="https://img.shields.io/badge/sasahershko-black?style=for-the-badge&logo=twitch&logoColor=white">
-	</a>
+  <a href="https://www.twitch.tv/sasahershko" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/sasahershko-black?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
 
-<a href="https://twitter.com/ssaraylara" text-decoration="none">
-	      <img src="https://img.shields.io/badge/SSARAYLARA-black?style=for-the-badge&logo=x">
-	</a>
+  <a href="https://twitter.com/ssaraylara" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/SSARAYLARA-black?style=for-the-badge&logo=x">
+    </a>
 
-<a href="https://www.linkedin.com/in/saray-lara-7b79b32a0/" text-decoration="none">
-	      <img src="https://img.shields.io/badge/Saray_Lara-black?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-
-
-  </a>
+  <a href="https://www.linkedin.com/in/saray-lara-7b79b32a0/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Saray_Lara-black?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
+
 
 <!--## <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me-->
 
