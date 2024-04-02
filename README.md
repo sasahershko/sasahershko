@@ -5,6 +5,11 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FDBAC5&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Student+at+U-Tad+University;Always+learning+new+things">
 
+<div>
+      <!-- GIF -->
+  <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" style="max-width: 100px; width: 30%; height: auto;">
+</div>
+
 <!-- REDES SOCIALES -->
 <div>
     <a href="https://saraylara.com/" text-decoration="none">
