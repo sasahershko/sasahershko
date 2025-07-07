@@ -11,8 +11,8 @@
 
 <!-- REDES SOCIALES -->
 <div>
-    <a href="https://saraylara.com/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/saraylara.com-black?style=for-the-badge&logo=googlechrome&logoColor=white&link=saraylara.com">
+    <a href="https://sasahershko.com/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/sasahershko.com-black?style=for-the-badge&logo=googlechrome&logoColor=white&link=sasahershko.com">
     </a>
 
   <a href="https://www.twitch.tv/sasahershko" style="text-decoration: none;">
